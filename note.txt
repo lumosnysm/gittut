@@ -7,3 +7,5 @@ rm
 mv
 commit
 git log
+commit -amend
+git reset
