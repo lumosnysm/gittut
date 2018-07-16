@@ -1,0 +1,8 @@
+init
+status
+add
+.gitignore
+diff
+rm
+mv
+
