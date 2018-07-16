@@ -5,4 +5,4 @@ add
 git diff, git diff --staged
 rm
 mv
-
+commit
