@@ -2,7 +2,7 @@ init
 status
 add
 .gitignore
-diff
+git diff, git diff --staged
 rm
 mv
 
