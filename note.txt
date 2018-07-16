@@ -10,3 +10,4 @@ git log
 commit -amend
 git reset unstaged
 git checkout Unmodifying
+git remote
